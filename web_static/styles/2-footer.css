@@ -1,0 +1,10 @@
+
+ter {
+    background-color: #00FF00; 
+    bottom: 0px;
+    display: grid;   
+    height: 60px;
+    place-items: center; 
+    position: absolute; 
+    width: 100%;
+}

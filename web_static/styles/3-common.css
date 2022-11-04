@@ -1,0 +1,12 @@
+@import url("3-header.css");
+@import url("3-footer.css");
+
+body {
+    color: #484848;
+    font-size: 14px;
+    font-family: Circular,"Helvetica Neue",Helvetica,Arial,sans-serif;;
+    height: 100vh;
+    margin: 0px;
+    padding: 0px;
+    position: relative;
+}

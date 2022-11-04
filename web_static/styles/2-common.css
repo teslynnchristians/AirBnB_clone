@@ -1,0 +1,9 @@
+@import url("2-header.css");
+@import url("2-footer.css");
+
+body {
+    height: 100vh;
+    margin: 0px;
+    padding: 0px;
+    position: relative;
+}

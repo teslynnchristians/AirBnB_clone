@@ -1,0 +1,26 @@
+@import url("102-header.css");
+@import url("102-footer.css");
+@import url("102-filters.css");
+@import url("102-places.css");
+
+html {
+    padding: 0;
+    margin: 0;
+    position: relative;
+    min-height: 100vh;
+}
+
+body {
+    color: #484848;
+    font-size: 14px;
+    font-family: Circular,"Helvetica Neue",Helvetica,Arial,sans-serif;;
+    height: 100vh;
+    margin: 0px;
+    padding: 0px;
+    min-height: 100vh;
+}
+
+.container {
+    max-width: 1000px;
+    margin: 30px auto;
+}

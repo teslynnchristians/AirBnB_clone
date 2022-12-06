@@ -1,6 +1,6 @@
 #!/usr/bin/python3
-'''Entry point of the command interpreter
-'''
+'''console'''
+
 import cmd
 import json
 import re
